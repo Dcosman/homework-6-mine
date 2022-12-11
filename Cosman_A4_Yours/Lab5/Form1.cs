@@ -97,7 +97,7 @@ namespace Lab5
         {
             string holder = secondString;
             secondString = firstString;
-            firstString = secondString;
+            firstString = holder;
         }
 
         //Returns true if the two strings in the text boxes within the textgroup are not empty

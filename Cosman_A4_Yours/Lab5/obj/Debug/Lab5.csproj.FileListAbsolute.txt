@@ -53,3 +53,14 @@ C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Cosman_A4_Your
 C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.exe
 C:\0-Fall2022\Intro to Development Tools\Assignments\Assignment 4\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\bin\Debug\Lab5.exe
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.exe
+C:\Users\Dallas\Documents\GitHub\homework-6-mine\Cosman_A4_Yours\Lab5\obj\Debug\Lab5.pdb
